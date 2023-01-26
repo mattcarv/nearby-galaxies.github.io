@@ -22,6 +22,9 @@ the Spitzer/IRAC instrument team and worked on a variety of science topics inclu
 
 Here are my [CV](https://github.com/PBarmby/cv/blob/master/pbarmby_cv.pdf) and [blog](http://pbarmby.github.io).
 
+## Matheus do Carmo Carvalho (MSc Student)
+I am a Master's student focusing on understanding the star formation in Superspiral galaxies and more specifically in the Rubin's Galaxy. During my BSc. of Physics I investigated properties of local peculiar galaxies based on their optical spectra and photometry obtained from the OPD/LNA observatory. I am currently analyzing the Carbon Monoxide emission (from 1-0 and 2-1 transitions) line from millimeter-wavelength spectra observations of the Institut de Radioastronomie Millimetrique (IRAM) and comparing it with the H-alpha emission line of SITELLE, the latest instrument integrated at the CFHT. My goal is to understand the gas (and therefore the stars born from it) in isolated giant spiral galaxies and its functioning in regards to normal-sized objects.
+
 ## Mark Gorski (Postdoc)
 <img align="right" src="{{ site.url }}/images/gorski.jpg">
 I use molecular spectra from radio and submillimeter telescopes to probe physical conditions of the interstellar medium within nearby galaxies.  Nearby galaxies permit access to weak, but diagnostically important tracers that can be applied to a much wider range of galactic star formation rates and environments. The connection between star formation and the ISM is responsible for large uncertainties in galaxy evolution and the main source of uncertainty limiting future progress. I'm specifically interested in the effect of mechanical and radiative feed-back processes and how they might impede the formation of stars. 
